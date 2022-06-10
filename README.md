@@ -22,6 +22,7 @@ Causal Inference in Vision
 
 - (Causality in Vision CVPRW 2021)[https://openaccess.thecvf.com/CVPR2021_workshops/CiV]
 - (Causal Inference and Stable Learning)[https://icml.cc/media/Slides/icml/2019/104(10-09-15)-10-15-45-4348-causal_inferenc.pdf]
+- (Causality in Medical Image Computing)[https://sites.google.com/view/causemic/]
 
 ## Causality Tools
 
