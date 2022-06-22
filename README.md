@@ -13,16 +13,18 @@ Causal Inference in Vision
 - Causal effect inference with deep latent-variable models (2017) [[pdf]](https://arxiv.org/pdf/1705.08821.pdf)
 
 ## Causality in Vision Papers
-
+- Discovering Causal Signals in Images [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lopez-Paz_Discovering_Causal_Signals_CVPR_2017_paper.pdf)
 - Towards Robust Classification Model by
   Counterfactual and Invariant Data Generation 2021 [[pdf]](https://arxiv.org/pdf/2106.01127.pdf)
 - Distilling Causal Effect of Data in Class-Incremental Learning 2021 [[pdf]](https://arxiv.org/pdf/2103.01737.pdf)
+- Causal Interventional Training for Image Recognition 2015 [[pdf]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7746&context=sis_research)
 
 ## Causality in Vision Workshops/Lecture
 
 - (Causality in Vision CVPRW 2021)[https://openaccess.thecvf.com/CVPR2021_workshops/CiV]
 - (Causal Inference and Stable Learning)[https://icml.cc/media/Slides/icml/2019/104(10-09-15)-10-15-45-4348-causal_inferenc.pdf]
 - (Causality in Medical Image Computing)[https://sites.google.com/view/causemic/]
+- (correlation vs casuality)[https://deepai.org/publication/on-image-classification-correlation-v-s-causality]
 
 ## Causality Tools
 
